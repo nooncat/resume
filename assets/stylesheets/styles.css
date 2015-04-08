@@ -1,0 +1,9 @@
+body {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 992px;
+  padding-right: 15px;
+  padding-left: 15px;
+  background: #f5f5f5;
+  font-family: Arial,sans-serif;
+}
