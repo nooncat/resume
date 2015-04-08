@@ -18,3 +18,12 @@ header .photo {
   float: left;
   margin-right: 25px;
 }
+
+header h1 {
+  margin-bottom: 8px;
+  margin-top: 12px;
+}
+
+header h2 {
+  margin: 8px 0;
+}
