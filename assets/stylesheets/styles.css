@@ -87,4 +87,10 @@ header .contacts li {
     display: block;
     margin: 0 auto;
   }
+
+  header h1,
+  header h2 {
+    text-align: center;
+  }
+
 }
