@@ -27,3 +27,20 @@ header h1 {
 header h2 {
   margin: 8px 0;
 }
+
+a {
+  text-decoration: none;
+}
+
+header .contacts {
+  padding: 0;
+  list-style: none;
+}
+
+header .contacts a {
+  color: #000000;
+}
+
+header .contacts li {
+  line-height: 1.5;
+}
