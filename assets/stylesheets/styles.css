@@ -93,4 +93,10 @@ header .contacts li {
     text-align: center;
   }
 
+  header .contacts {
+    margin: 0 auto;
+    width: 180px;
+    padding: 0;
+  }
 }
+
