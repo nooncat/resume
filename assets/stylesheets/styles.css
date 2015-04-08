@@ -4,6 +4,7 @@ body {
   max-width: 992px;
   padding-right: 15px;
   padding-left: 15px;
+  padding-top: 10px;
   background: #f5f5f5;
   font-family: Arial,sans-serif;
 }
