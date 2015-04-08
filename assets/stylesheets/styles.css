@@ -44,3 +44,29 @@ header .contacts a {
 header .contacts li {
   line-height: 1.5;
 }
+
+.icon {
+  display: inline-block;
+  background: url('../images/icons.png') no-repeat;
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  text-indent: -9999px;
+  vertical-align: middle;
+}
+
+.icon-home {
+  background-position: -20px -0px;
+}
+
+.icon-phone {
+  background-position: -20px -18px;
+}
+
+.icon-email {
+  background-position: -2px 0px;
+}
+
+.icon-skype {
+  background-position: -2px -18px;
+}
