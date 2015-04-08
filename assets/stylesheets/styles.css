@@ -80,3 +80,11 @@ header .contacts li {
 .resume-main dd {
   margin-left: 8%;
 }
+
+@media (max-width: 768px) {
+  header .photo {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
