@@ -7,3 +7,14 @@ body {
   background: #f5f5f5;
   font-family: Arial,sans-serif;
 }
+
+header:after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
+header .photo {
+  float: left;
+  margin-right: 25px;
+}
