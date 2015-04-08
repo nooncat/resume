@@ -70,3 +70,13 @@ header .contacts li {
 .icon-skype {
   background-position: -2px -18px;
 }
+
+.resume-main dt {
+  font-weight: bold;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.resume-main dd {
+  margin-left: 8%;
+}
